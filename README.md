@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/Gamer3Mi/Gamer3Mi/blob/main/G-One.png)
 
 <h1 align="center">Hi 👋, I'm G-One Pagar</h1>
 <h3 align="center">Passionate Java Developer</h3>
